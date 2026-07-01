@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6v0235/v1
+canonical_location: https://kanripo.org/bkk/KR6v0235/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 安村道俗一百餘人修塔記
+  identifiers:
+    alt_id:
+    - I01n0036
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0036.xml
+    old_id: I01n0036
+  edition:
+    short: bkk
+editions:
+- short: 佛拓
+  label: 佛拓
+  source_xml_id: wit.orig
+- short: I
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0235_000.yaml, hash: 'sha256:741dcc9096d3c7f29d3645e98b1f195e8b27a76eb5269ec29c354664faf78ca4'}
+  - {seq: 1, filename: KR6v0235_001.yaml, hash: 'sha256:87eff49e22351bf32e0429b4ec3cc860da09adfd20d1e7f4399dbcf6ce09d527'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0235_001.markers.yaml, hash: 'sha256:a38618b84a8c1aa1ec1524c5e96cba9c3d4232ca24e53fdb3cf148afe267abee'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0235_I_001-juan-start
+    span:
+    - body
+    - 0
+    - 479
+  label: 安村道俗一百餘人修塔記
+  type: juan
+  level: 1
+hash: sha256:7bb0f00f7fdcba6ef7e96d50835992aaf85734b39153542c2b3316e6efc0642c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

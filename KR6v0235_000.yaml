@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0235/i/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 安村道俗一百餘人修塔記
+  edition:
+    short: i
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0036.xml
+    old_id: I01n0036
+hash: sha256:741dcc9096d3c7f29d3645e98b1f195e8b27a76eb5269ec29c354664faf78ca4

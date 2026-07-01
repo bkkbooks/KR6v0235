@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6v0235/I/v1
+canonical_location: https://kanripo.org/bkk/KR6v0235/I/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 安村道俗一百餘人修塔記
+  identifiers:
+    krp: KR6v0235
+    cbeta: I01n0036
+    cbeta_old_id: I01n0036
+    authorityid: CA0008171
+    json_key: I0036
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0036.xml
+    old_id: I01n0036
+  edition:
+    short: I
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0235_000-I.yaml, hash: 'sha256:741dcc9096d3c7f29d3645e98b1f195e8b27a76eb5269ec29c354664faf78ca4'}
+  - {seq: 1, filename: KR6v0235_001-I.yaml, hash: 'sha256:3f02d096cf86a3c6868b7d5e4525a9f16ad87fee726bc025c8c4427e2b9f9f03'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0235_000-I.markers.yaml, hash: 'sha256:e4f781563ee64a2386f029621c4d560d75fad3ed9a7b36500f7e5e2b403ea796'}
+  - {seq: 1, role: markers, filename: assets/KR6v0235_001-I.markers.yaml, hash: 'sha256:2ea1aa2d5645f2f7fa834c01e2cccec014681b0700032060ffe6f4ef62b1622f'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0235_I_001-juan-start
+    span:
+    - body
+    - 0
+    - 479
+  label: 安村道俗一百餘人修塔記
+  type: juan
+  level: 1
+hash: sha256:0ba81205311d54072458e98ecf75f88897c094975ec28ee647814031d6a9e02a
