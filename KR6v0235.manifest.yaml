@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0235_000.yaml, hash: 'sha256:741dcc9096d3c7f29d3645e98b1f195e8b27a76eb5269ec29c354664faf78ca4'}
-  - {seq: 1, filename: KR6v0235_001.yaml, hash: 'sha256:87eff49e22351bf32e0429b4ec3cc860da09adfd20d1e7f4399dbcf6ce09d527'}
+  - {seq: 1, filename: KR6v0235_001.yaml, hash: 'sha256:3f02d096cf86a3c6868b7d5e4525a9f16ad87fee726bc025c8c4427e2b9f9f03'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0235_001.markers.yaml, hash: 'sha256:a38618b84a8c1aa1ec1524c5e96cba9c3d4232ca24e53fdb3cf148afe267abee'}
+  - {seq: 0, role: markers, filename: assets/KR6v0235_000.markers.yaml, hash: 'sha256:fa875c62745762127a893efd676538b448eb81c5a4c77dcc3210baed5b202898'}
+  - {seq: 1, role: markers, filename: assets/KR6v0235_001.markers.yaml, hash: 'sha256:40dba5f4f38b9834d3928233eafd32e6fdfe9721667723db15e9bc07b5a61580'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 安村道俗一百餘人修塔記
   type: juan
   level: 1
-hash: sha256:7bb0f00f7fdcba6ef7e96d50835992aaf85734b39153542c2b3316e6efc0642c
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:59e2e7bfefec66c728e67c42f7fab4985d30cc373cf2625c21ae5507d3749c1c
