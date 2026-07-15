@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0235/v1
 canonical_location: https://kanripo.org/bkk/KR6v0235/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 安村道俗一百餘人修塔記
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0235_000.yaml, hash: 'sha256:741dcc9096d3c7f29d3645e98b1f195e8b27a76eb5269ec29c354664faf78ca4'}
-  - {seq: 1, filename: KR6v0235_001.yaml, hash: 'sha256:3f02d096cf86a3c6868b7d5e4525a9f16ad87fee726bc025c8c4427e2b9f9f03'}
+  - {seq: 1, filename: KR6v0235_001.yaml, hash: 'sha256:87eff49e22351bf32e0429b4ec3cc860da09adfd20d1e7f4399dbcf6ce09d527'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6v0235_000.markers.yaml, hash: 'sha256:fa875c62745762127a893efd676538b448eb81c5a4c77dcc3210baed5b202898'}
-  - {seq: 1, role: markers, filename: assets/KR6v0235_001.markers.yaml, hash: 'sha256:40dba5f4f38b9834d3928233eafd32e6fdfe9721667723db15e9bc07b5a61580'}
+  - {seq: 1, role: markers, filename: assets/KR6v0235_001.markers.yaml, hash: 'sha256:a15ec5d88547637bf9cf06970076ca0a50ca0443a4d321db2f9ca5aff97c53e4'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 安村道俗一百餘人修塔記
   type: juan
   level: 1
-hash: sha256:59e2e7bfefec66c728e67c42f7fab4985d30cc373cf2625c21ae5507d3749c1c
+hash: sha256:c0cfcd369b73dcdde75e8bea18fb76726c8f7ec356fa5fed91dac5e93de09c35
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
